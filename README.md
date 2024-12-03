@@ -14,7 +14,7 @@ This project is closely related to telegram bots, which themselves have an impor
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Reply Keyboard, Inline Keyboard, Error Handling, Inventory, User Log Activity |
+| Features | • Reply Keyboard<br>• Inline Keyboard<br>• Error Handling<br>• Inventory<br>• User Log Activity |
 | Platform | Pythonanywhere |
 | Library | telebot, datetime |
 | Code | Python 3.6 |
