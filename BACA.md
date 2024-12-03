@@ -14,9 +14,9 @@ Proyek ini sangat erat kaitannya dengan bot telegram, yang mana bot telegram sen
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Keyboard Balasan, Keyboard Sebaris, Pengendalian Masalah, Inventarisasi, Aktivitas Catatan Pengguna |
+| Fitur | • Keyboard Balasan<br>• Keyboard Sebaris<br>• Pengendalian Masalah<br>• Inventarisasi<br>• Aktivitas Catatan Pengguna |
 | Platform | Pythonanywhere |
-| Pustaka | telebot, datetime |
+| Pustaka | • telebot<br>• datetime |
 | Kode | Python 3.6 |
 
 <br><br>
